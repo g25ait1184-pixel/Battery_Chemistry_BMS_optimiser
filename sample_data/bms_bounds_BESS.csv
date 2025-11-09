@@ -1,0 +1,11 @@
+var,lo,hi
+V_chg_max,3.90,4.10
+V_dis_min,2.80,3.10
+I_chg_max,0.10,0.80
+I_dchg_max,0.30,1.20
+T_min,-10.0,0.0
+T_max,28.0,42.0
+T_cool,37.0,39.0
+SOC_min,15,15
+SOC_max,85,85
+DeltaV_bal,0,20

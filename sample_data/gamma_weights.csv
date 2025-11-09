@@ -1,0 +1,8 @@
+penalty,weight
+C_rate_chg,0.6
+C_rate_dchg,0.6
+Temp_low,1.0
+Temp_high,1.0
+SOC_window,0.8
+V_dis_min,0.5
+DeltaV_bal,0.7
